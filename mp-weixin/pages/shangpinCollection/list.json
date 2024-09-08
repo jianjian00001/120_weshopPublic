@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#71A842",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "商品收藏展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
