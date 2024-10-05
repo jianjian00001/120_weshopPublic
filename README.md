@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV13k4y1Q7L5/](https://www.bilibili.com/video/BV13k4y1Q7L5/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+vue+uniapp的智能小程序商城管理系统(源代码+数据库+15000字论文)120
 
